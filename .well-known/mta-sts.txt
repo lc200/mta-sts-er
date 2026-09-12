@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
 mx: *.ionos.co.uk
-mx: mail.mycmd.co.uk
 max_age: 86400
